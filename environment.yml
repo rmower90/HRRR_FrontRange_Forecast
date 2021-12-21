@@ -1,0 +1,12 @@
+name: oop_tutorial
+channels:
+  - conda-forge
+  - ncar
+dependencies:
+  - python=3.8
+  - numpy
+  - xarray
+  - cartopy
+  - matplotlib
+  - siphon
+  - jupyterlab
